@@ -1,0 +1,12 @@
+{
+  "name": "abd-rahim-portfolio",
+  "version": "1.0.0",
+  "description": "Abd Rahim - Portfolio Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
